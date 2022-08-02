@@ -60,7 +60,8 @@ public class Main {
         return tax;
     }
 
-
+    
+    //Q3
     public static void palindrome(String word){
 
         String word2 = "";
